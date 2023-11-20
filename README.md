@@ -6,13 +6,13 @@ A minimal audio player for mobile
 
 ```console
 # HTTPS
-git clone https://github.com/mburuanthony/audioplayer.git
+git clone https://github.com/manga2/AudioPlayerApp.git
 
 # SSH
-git clone git@github.com:mburuanthony/audioplayer.git
+git clone git@github.com:manga2/AudioPlayerApp.git
 
 # Github CLI
-gh repo clone mburuanthony/audioplayer
+gh repo clone manga2/AudioPlayerApp
 ```
 
 ##### install dependencies
